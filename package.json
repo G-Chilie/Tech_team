@@ -1,0 +1,32 @@
+{
+  "name": "Tech_team",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G-Chilie/Tech_team.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/G-Chilie/Tech_team/issues"
+  },
+  "homepage": "https://github.com/G-Chilie/Tech_team#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.6.0",
+    "@babel/core": "^7.6.0",
+    "@babel/preset-env": "^7.6.0",
+    "@babel/preset-es2015": "^7.0.0-beta.53",
+    "babel-loader": "^8.0.6"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.18.3"
+  }
+}
