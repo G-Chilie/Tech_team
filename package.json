@@ -27,6 +27,6 @@
   "dependencies": {
     "jsonwebtoken": "^8.5.1",
     "bcrypt": "^3.0.6",
-    "body-parser": "^1.18.3"
+    "body-parser": "^1.20.1"
   }
 }
